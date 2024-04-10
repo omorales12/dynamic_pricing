@@ -9,6 +9,8 @@ The dataset containing historical ride data has been provided. It includes featu
 
 Your goal is to build a dynamic pricing model that incorporates the provided features to predict optimal fares for rides in real-time. The model must consider factors such as demand patterns and supply availability.
 
+![Dynamic Pricing Image](Resources\Images\dynamic-pricing-machine-learning-strategies-examples.png)
+
 ### Features
 - 'Number_of_Riders'
 - 'Number_of_Drivers'
